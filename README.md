@@ -1,4 +1,4 @@
-# Example
+## 現在の日付で命名した空のファイルを指定したディレクトリに作る
 
 ~~~
 $ python3 create_diary.py dream
